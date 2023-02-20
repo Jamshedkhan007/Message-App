@@ -1,0 +1,10 @@
+todo:
+1.Create npm project
+2.index ,css,js files
+3.install dependancies,express,nodemon(dev ope);
+4.create a express server(server.js)
+5.Do frontend Part
+6.Install Socket.io setup socket.io in server.js and client.js
+7.client send message logic in client.js
+8.recieve a mesaage on server and broadcast to all clients
+9.recieve message on client and display it scrolltobottom etc..
